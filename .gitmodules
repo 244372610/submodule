@@ -1,3 +1,6 @@
 [submodule "dbconnector"]
 	path = dbconnector
 	url = git@github.com:paulogil93/dbconnector.git
+[submodule "Execise"]
+	path = Execise
+	url = git@github.com:244372610/Execise.git
